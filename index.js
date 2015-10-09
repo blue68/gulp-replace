@@ -1,1 +1,1 @@
-module.exports = require("lib/replace.js");
+module.exports = require("./lib/replace.js");
