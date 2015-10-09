@@ -3,7 +3,6 @@
 A string replace plugin for gulp
 
 # Install
--------
 
 Install using [npm](https://npmjs.org/package/gulp-str-replace).
 
@@ -13,7 +12,6 @@ npm install gulp-str-replace --save-dev
 ```
 
 # Usage
------
 
 ```js
 
