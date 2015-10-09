@@ -15,7 +15,10 @@
     "replace",
     "gulp-replace"
   ],
-  "author": "blue68 <chaoqiang.tian@gmail.com>",
+  "author": {
+    "name": "blune68",
+    "email" : "chaoqiang.tian@gmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/blue68/gulp-replace/issues"
