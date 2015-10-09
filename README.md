@@ -1,4 +1,4 @@
-# gulp-str-replace
+# gulp-str-replace  [![Build Status](https://travis-ci.org/blue68/gulp-replace.svg?branch=master)](https://travis-ci.org/blue68/gulp-replace)
 
 A string replace plugin for gulp
 
