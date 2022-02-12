@@ -6,7 +6,7 @@ TESTS  = $(shell find test -type f -name test-*)
 default: test
 
 npm-install:
-	@npm --color=true --registry=http://registry.npm.taobao.org/ install
+	@npm --color=true --registry=https://registry.npmmirror.com/ install
 
 test: npm-install
 	@$(-BIN-MOCHA) \
